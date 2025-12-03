@@ -1,9 +1,9 @@
 <template>
 
     <div 
-        class="app h-full flex flex-column"
+        class="app h-full bg-color-brand-one flex flex-column"
     >
-        <div class="app-information scroll-y h-full p-xlg">
+        <div class="app-information scroll-y h-full">
             <RouterView/>
         </div>
     </div>
@@ -48,8 +48,5 @@ export default {
 </script>
 
 <style lang="scss">
-
-.app{
-}
 
 </style>
