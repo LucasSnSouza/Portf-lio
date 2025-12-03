@@ -49,10 +49,10 @@
                 </h2>
 
                 <p class="font-md">
-                    <li> Trabalho já a 4 anos com o Framework Vuejs</li>
-                    <li> A 6 anos trabalhando com o nativo HTML, CSS e JS e 4 anos usando os mesmo profissinalmente.</li>
+                    <li> Trabalho já a 5 anos com o Framework Vuejs</li>
+                    <li> A 8 anos trabalhando com o nativo HTML, CSS e JS e 6 anos usando os mesmo profissinalmente.</li>
                     <li> 1 Ano e meio desenvolvendo sistemas internos em HTML e JS e usando python no backend em Flask na PromoAttitude</li>
-                    <li> 1 Ano e meio de desenvolvendo sistemas internos em Vuejs e Laravel PHP na Interlink Cotia</li>
+                    <li> 3 Anos de desenvolvendo sistemas internos em Vuejs e Laravel PHP na Interlink Cotia</li>
                     <li> 2 Anos de desenvolvimento front end de aplicações mobile e desktop em Vuejs na Trade up</li>      
                 </p>
 

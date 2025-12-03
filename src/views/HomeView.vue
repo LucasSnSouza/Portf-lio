@@ -15,6 +15,9 @@
                 <p class="w-half">
                     Atualmente estou em busca de novas oportunidades, enquanto dedico meu tempo ao desenvolvimento dos meus projetos pessoais.
                 </p>
+                <p class="w-half">
+                    Está pagina foi desenvolvida em Vue3 por mim.
+                </p>
             </div>
 
         </div>
